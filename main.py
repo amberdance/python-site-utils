@@ -1,5 +1,3 @@
-import os
-
 from mshsk.mshsk_utils import wrap_html_content
 from util.Files import Files
 

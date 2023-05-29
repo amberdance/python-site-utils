@@ -1,98 +1,35 @@
-<?
-require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetPageProperty("keywords", "Антикоррупционная деятельность государство Россия Российская Федерация Министерство сельского хозяйства Ставропольского края");
-$APPLICATION->SetPageProperty("description", "Антикоррупционная деятельность Министерство сельского хозяйства Ставропольского края");
-$APPLICATION->SetTitle("Антикоррупционная деятельность");
-?>
+	<?
+	require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
+	$APPLICATION->SetTitle("Нормативная база");
+	?><p>	 1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/Указ%20Президента%20Российской%20Федерации%20618.docx">Указ&nbsp;Президента Российской Федерации от 21 декабря 2017 г. № 618 «Об основных направлениях государственной политики по развитию конкуренции»</a>
+	</p>
+	<p>
+		2.&nbsp; &nbsp; &nbsp; <a href="/Федеральный%20закон%20О%20защите%20конкуренции.docx">Федеральный закон&nbsp;от 26 июля 2006 г. № 135-ФЗ «О защите конкуренции».</a><br>
+	</p>
+	<p>
+		3.&nbsp; &nbsp; &nbsp;<a href="/распоряжение%20постановление%20Правительства%20Российской%20Федерации%202258-р.docx">Распоряжение Правительства Российской Федерации от 18 октября 2018 г. №&nbsp; 2258-р «Об утверждении методических рекомендаций по созданию и организации федеральными органами исполнительной власти системы внутреннего обеспечения соответствия требованиям антимонопольного законодательства».</a>
+	</p>
+	<p>
+		4.&nbsp; &nbsp; &nbsp; <a href="/постановление%20Правительства%20Ставропольского%20края%20484п.docx">Постановление Правительства Ставропольского края от 01 ноября 2019 г. № 484-п «Об утверждении Порядка проведения анализа законов Ставропольского края, нормативных правовых актов Губернатора Ставропольского края и Правительства Ставропольского края и их проектов, разрабатываемых органами исполнительной власти Ставропольского края, на соответствие требованиям антимонопольного законодательства».</a>
+	</p>
+	<p>
+		5.&nbsp; &nbsp; &nbsp; <a href="/Антимонопольный%20комплаенс.zip">Проект постановления Правительства Ставропольского края «О внесении изменений в постановление Правительства Ставропольского края от 14 ноября 2012 г. № 448-п «Об утверждении Порядка предоставления за счет средств бюджета Ставропольского края субсидий на возмещение части затрат на строительство, реконструкцию, техническое перевооружение мелиоративных систем общего и индивидуального пользования и отдельно расположенных гидротехнических сооружений, а также рыбоводных прудов, принадлежащих сельскохозяйственным товаропроизводителям на праве собственности или переданных в пользование в установленном порядке, за исключением затрат, связанных с проведением проектных и изыскательских работ и (или) подготовкой проектной документации в отношении указанных объектов»</a><br>
+	</p>
+	<p>
+	<br>
+	</p>
+	<p>
+		6.&nbsp; &nbsp; &nbsp; <a href="/05%20от%2014.01.2019.pdf">Приказ министерства сельского хозяйства Ставропольского края О системе внутреннего обеспечения соответствия требованиям антимонопольного законодательства в министерстве сельского хозяйства Ставропольского края В соответствии с Указом Президента Российской Федерации от 21 декабря 2017 г. № 618 «Об основных направлениях государственной политики по развитию конкуренции» и распоряжением Правительства Российской Федерации от 18 октября 2018 г. № 2258-р</a><br>
+	</p>
+	<br>
+	7.&nbsp; &nbsp; &nbsp;&nbsp;<a href="/26%20од%20от%2025.01.2022%20.pdf">Приказ министерства сельского хозяйства Ставропольского края&nbsp;О мерах по организации системы внутреннего обеспечения соответствия требованиям антимонопольного законодательства в министерстве сельского хозяйства Ставропольского края в 2022 году&nbsp;В соответствии с Указом Президента Российской Федерации от 21 декабря 2017 г. № 618 «Об основных направлениях государственной политики по развитию конкуренции» и Положением о системе внутреннего обеспечения соответствия требованиям антимонопольного законодательства в министерстве сельского хозяйства Ставропольского края, утвержденным приказом министерства сельского хозяйства Ставропольского края от 14 января 2019 г. № 05</a><br>
+	<br>
+	8.&nbsp; &nbsp; &nbsp;<a href="/70-од%20от%2024.03.2020.pdf">Приказ министерства сельского хозяйства Ставропольского края О мерах по организации системы внутреннего обеспечения соответствия требованиям антимонопольного законодательства в министерстве сельского хозяйства Ставропольского края&nbsp;В соответствии с Указом Президента Российской Федерации от 21 декабря 2017 г. № 618 «Об основных направлениях государственной политики по развитию конкуренции» и Положением о системе внутреннего обеспечения соответствия требованиям антимонопольного законодательства в министерстве сельского хозяйства Ставропольского края, утвержденным приказом министерства сельского хозяйства Ставропольского края от 14 января 2019 г. № 05</a><br>
+	<br>
+	9.&nbsp; &nbsp; &nbsp;<a href="/278-од%20от%2030.07.2019.pdf">Приказ министерства сельского хозяйства Ставропольского края&nbsp;О внесении изменения в пункт 13 Положения о системе внутреннего обеспечения соответствия требованиям антимонопольного законодательства в министерстве сельского хозяйства Ставропольского края, утвержденного приказом министерства сельского хозяйства Ставропольского края от 14 января 2019 г. № 05</a><br>
+	<br>
+	<a href="/Антимонопольный%20комплаенс.zip"> </a><br>
+	<p>
+	</p>
 
-<div class='container'>
-
-<div>	<div style="text-align: center;">
- <b>Уважаемые граждане !!!</b>
-	</div>
-	<div style="text-align: center;">
- <span style="color: #ff0000;"><b> <br>
- </b></span>
-	</div>
-	<div style="text-align: center;">
- <span style="color: #ff0000;"><b>Предупреждаем Вас,&nbsp;</b></span>
-	</div>
-	<div style="text-align: center;">
- <span style="font-size: 12px;"><span style="color: #ff0000;"><b>что дача взятки должностному лицу лично или через посредника преследуется по закону и влечет за собой уголовную ответственность!!!&nbsp;</b></span></span>
-	</div>
-	<div style="text-align: center;">
-		 (статья 291, 291.1, Уголовный кодекс Российской Федерации)
-	</div>
-</div>
-<div>
- <br>
-</div>
-<div>
- <br>
-</div>
-<table width="100%" cellpadding="0" cellspacing="0" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; font-family: Verdana, Arial, Tahoma; font-size: 12px; color: #5e6466; text-align: start;">
-<tbody style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;">
-<tr valign="top" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;">
-	<td style="margin: 0px; padding: 0px; border-spacing: 0px; border-collapse: collapse; border: 0px none;">
-		<p class="paragraph_left" style="margin-top: 15px; margin-bottom: 5px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;">
-		</p>
-		<p class="paragraph_left" style="margin-top: 15px; margin-bottom: 5px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;">
- <span class="text_default" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse; font-family: Verdana;"></span>
-		</p>
-		<div id="child" style="border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;">
-			<ul class="childrens" style="border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse; list-style-image: url(http://www.fskn.gov.ru/images/path.gif);">
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a class="href_childrens" title="Нормативные правовые и иные акты в сфере противодействия коррупции" href="/ministries/anti-corruption-efforts/normative-legal-and-other-acts-in-the-sphere-of-combating-corruption.php" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse; font-family: Arial; font-size: 14px; color: #006bbd; outline: none; text-decoration: none; ">Нормативные правовые и иные акты в сфере противодействия коррупции</a></li>
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a href="/regulatory/independent-anti-corruption-expertise.php">А<span style="font-family: Arial; color: #006bbd;"><span style="font-size: 14px;">нтикоррупционная экспертиза</span></span></a></li>
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a class="href_childrens" title="Методические материалы" href="/ministries/anti-corruption-efforts/methodical-materials.php" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse; font-family: Arial; font-size: 14px; color: #006bbd; outline: none; text-decoration: none; ">Методические материалы</a></li>
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a class="href_childrens" title="Формы, бланки" href="/ministries/anti-corruption-efforts/forms-letterheads.php" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse; font-family: Arial; font-size: 14px; color: #006bbd; outline: none; text-decoration: none; ">Формы документов, связанных с противодействием коррупции, для заполнения</a></li>
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a class="href_childrens" title="Сведения о доходах, об имуществе и обязательствах имущественного характера" href="/ministries/anti-corruption-efforts/income-information-for-the-year2012.php" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse; font-family: Arial; font-size: 14px; color: #006bbd; outline: none; text-decoration: none; ">Сведения о доходах, расходах, об имуществе и обязательствах имущественного характера</a></li>
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a class="href_childrens" title="Комиссия по соблюдению требований к служебному поведению и урегулированию конфликта интересов" href="/ministries/anti-corruption-efforts/the-activities-of-the-commission-for-observance-of-the-requirements-of-professional-conduct-.php" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse; font-family: Arial; font-size: 14px; color: #006bbd; outline: none; text-decoration: none; ">Комиссия по соблюдению требований к служебному поведению и урегулированию конфликта интересов</a></li>
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a class="href_childrens" title="Доклады, отчеты, обзоры, статистическая информация" href="/ministries/anti-corruption-efforts/reports-surveys-statistical-information.php" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse; font-family: Arial; font-size: 14px; color: #006bbd; outline: none; text-decoration: none; ">Противодействие коррупции</a></li>
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a class="href_childrens" title="Обратная связь для сообщений о фактах коррупции" href="/ministries/anti-corruption-efforts/feedback-to-reporting-of-corruption.php" style="margin: 0px; padding: 0px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse; font-family: Arial; font-size: 14px; color: #006bbd; outline: none; text-decoration: none; ">Обратная связь для сообщений о фактах коррупции</a></li>
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a href="http://mshsk.ru/ministries/anti-corruption-efforts/svedeniya-o-konsultirovanii.php">Сведения о консультировании</a></li>
-				<li style="padding-bottom: 10px; border-style: none; border-width: 0px; border-spacing: 0px; border-collapse: collapse;"><a target="_blank" href="/download/Ocenka2015.pdf">Итоги общественной оценки качества предоставляемых государственных услуг</a><br>
- </li>
-			</ul>
-		</div>
-	</td>
-</tr>
-</tbody>
-</table>
-<div>
- <br>
-</div>
-<div>
-	 <?$APPLICATION->IncludeComponent(
-	"bitrix:voting.current",
-	"main_page",
-	Array(
-		"AJAX_MODE" => "N",
-		"AJAX_OPTION_ADDITIONAL" => "",
-		"AJAX_OPTION_HISTORY" => "N",
-		"AJAX_OPTION_JUMP" => "N",
-		"AJAX_OPTION_STYLE" => "Y",
-		"CACHE_TIME" => "3600",
-		"CACHE_TYPE" => "A",
-		"CHANNEL_SID" => "KORRUPCIA",
-		"VOTE_ALL_RESULTS" => "N",
-		"VOTE_ID" => "2"
-	)
-);?>
-</div>
-<div>
-	<div>
- <br>
-	</div>
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
-
-<br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
+	<br><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>

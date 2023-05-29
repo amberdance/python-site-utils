@@ -1,3 +1,7 @@
+import html
+
+from bs4 import BeautifulSoup
+
 from exception.ContentWrapException import ContentWrapException
 from mshsk.env import *
 from util.Files import Files
@@ -12,16 +16,22 @@ def wrap_html_content(file_src: any) -> None:
        """
 
     with open(file_src, mode="r+", encoding="utf-8") as file:
-        lines = file.readlines()
+        raw_content = file.read()
 
-        if is_content_wrapped("".join(lines)):
+        if is_content_wrapped(raw_content):
             raise ContentWrapException("Nothing to wrap. Content is already wrapped by: " + WRAP_OPEN_TAG)
 
-        Files.backup_file(file.name, BACKUP_FILENAME_POSTFIX)
+        file.truncate(0)  # have to erase file
+        file.seek(0)
+        file.write(prettify_html(raw_content))
+        file.seek(0)
 
+        lines = file.readlines()
+        Files.backup_file(file.name, BACKUP_FILENAME_POSTFIX)
         php_tags = find_php_occurrences(lines)
 
         process_wrap(lines, php_tags)
+
         file.seek(0)
         file.writelines(lines)
 
@@ -37,7 +47,14 @@ def delete_wrapping(file_src: any) -> None:
         file.writelines(lines)
 
 
-def is_content_wrapped(content) -> bool:
+def prettify_html(content: str) -> str:
+    content = re.sub("<\?(?!php)", "<?php ", content)
+    soup = BeautifulSoup(content, "html.parser").prettify()
+
+    return html.unescape(soup)
+
+
+def is_content_wrapped(content: str) -> bool:
     return WRAP_OPEN_TAG in content
 
 
