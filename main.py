@@ -1,5 +1,4 @@
-from mshsk.mshsk_utils import wrap_html_content
-from util.Files import Files
+from mshsk.mshsk_utils import handle_directory
 
 if __name__ == '__main__':
-    wrap_html_content(Files.path("resources/index.php"))
+    handle_directory("C:\OSPanel\domains\mshsk\\ambr\industry-information")
